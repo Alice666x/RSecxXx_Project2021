@@ -12,7 +12,8 @@ https://www.mediafire.com/file/tgje2o9t25bza92/Project2021.zip/file
 ```
 
 ## List My Project
-SQLI, XSS , ClickJacking , RCE Othershttps://www.mediafire.com/file/tgje2o9t25bza92/Project2021.zip/file
+SQLI, XSS , ClickJacking , RCE Others
+https://www.mediafire.com/file/tgje2o9t25bza92/Project2021.zip/file
 
 ## Tools Masih Tahap Pengembangan!
 
